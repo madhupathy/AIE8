@@ -1,0 +1,10 @@
+langchain>=0.3.10
+langgraph>=0.2.39
+langchain-openai>=0.2.1
+langchain-community>=0.3.10
+langchain-tavily>=0.0.4
+tiktoken>=0.7.0
+qdrant-client>=1.8.2
+pymupdf>=1.24.10
+nest-asyncio>=1.6.0
+python-dotenv>=1.0.1
